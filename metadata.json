@@ -1,0 +1,6 @@
+{
+  "name": "Sleep Player",
+  "description": "A low-brightness, mobile-friendly YouTube sleep player with a countdown fade-out timer and organized Science and Songs favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
